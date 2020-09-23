@@ -12,5 +12,13 @@ Inspired by [amitness](https://github.com/amitness/learning), [chiubaca](https:/
 
 ### Podcasts
 
-- [] [Screaming in the Cloud](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
+- [ ] [Screaming in the Cloud](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
   - [x] [Episode 63: DevOps for Dummies with Emily Freeman](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/episode-63-devops-for-dummies-with-emily-freeman/)
+
+### Books
+
+- [ ] [DevOps for Dummies](https://www.goodreads.com/book/show/41544326-devops-for-dummies)
+
+### Cheat Sheets
+
+- [DevOps for Dummies](https://www.dummies.com/business/operations-management/devops-for-dummies-cheat-sheet/)
