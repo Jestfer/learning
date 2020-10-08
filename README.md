@@ -21,8 +21,12 @@ Inspired by [amitness](https://github.com/amitness/learning), [chiubaca](https:/
 
 ### Tutorials
 
-- [ ] [Docker 101](https://www.docker.com/101-tutorial)
+- [x] [Docker 101](https://www.docker.com/101-tutorial)
 
 ### Cheat Sheets
 
 - [DevOps for Dummies](https://www.dummies.com/business/operations-management/devops-for-dummies-cheat-sheet/)
+
+### Resources
+
+- [Cloud Native Computing Foundation Projects (CNCF)](https://www.cncf.io/projects/)
