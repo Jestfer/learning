@@ -17,11 +17,12 @@ Inspired by [amitness](https://github.com/amitness/learning), [chiubaca](https:/
 
 ### Books
 
-- [ ] [DevOps for Dummies](https://www.goodreads.com/book/show/41544326-devops-for-dummies)
+- [x] [DevOps for Dummies](https://www.goodreads.com/book/show/41544326-devops-for-dummies)
 
 ### Tutorials
 
 - [x] [Docker 101](https://www.docker.com/101-tutorial)
+- [ ] [Play with Docker](https://training.play-with-docker.com/beginner-linux/)
 
 ### Cheat Sheets
 
