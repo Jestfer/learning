@@ -22,7 +22,8 @@ Inspired by [amitness](https://github.com/amitness/learning), [chiubaca](https:/
 ### Tutorials
 
 - [x] [Docker 101](https://www.docker.com/101-tutorial)
-- [ ] [Play with Docker](https://training.play-with-docker.com/beginner-linux/)
+- [x] [Play with Docker - Docker for Beginners](https://training.play-with-docker.com/beginner-linux/)
+- [ ] [Play with Docker - Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/)
 
 ### Cheat Sheets
 
