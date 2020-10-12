@@ -23,7 +23,11 @@ Inspired by [amitness](https://github.com/amitness/learning), [chiubaca](https:/
 
 - [x] [Docker 101](https://www.docker.com/101-tutorial)
 - [x] [Play with Docker - Docker for Beginners](https://training.play-with-docker.com/beginner-linux/)
-- [ ] [Play with Docker - Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/)
+- [x] [Play with Docker - Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/)
+
+### Courses
+
+- [ ] [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native)
 
 ### Cheat Sheets
 
