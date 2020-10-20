@@ -27,7 +27,7 @@ Inspired by [amitness](https://github.com/amitness/learning), [chiubaca](https:/
 
 ### Courses
 
-- [ ] [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native)
+- [x] [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native)
 
 ### Cheat Sheets
 
