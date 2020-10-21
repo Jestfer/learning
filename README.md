@@ -36,3 +36,9 @@ Inspired by [amitness](https://github.com/amitness/learning), [chiubaca](https:/
 ### Resources
 
 - [Cloud Native Computing Foundation Projects (CNCF)](https://www.cncf.io/projects/)
+
+## Frontend
+
+### React
+
+- [ ] [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/)
